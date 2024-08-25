@@ -1,0 +1,5 @@
+com\sistema_automacao\automacao_cobranca\App.class
+com\sistema_automacao\automacao_cobranca\Cobranca.class
+com\sistema_automacao\automacao_cobranca\utilitarios\FormatarData.class
+com\sistema_automacao\automacao_cobranca\utilitarios\FormatarNumero.class
+com\sistema_automacao\automacao_cobranca\AutomacaoCobranca.class
